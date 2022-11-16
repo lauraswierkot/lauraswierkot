@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Angular framework, Typescript and Javascipt. Still developing my C# and SQL skills.
+- 🌱 I’m currently working as front-end developer using Angular framework, Typescript, Javascipt and Node.js. At the same time developing my C# and SQL skills.
 - 📫 How to reach me: swierkotlaura@gmail.com
 - ⚡ Hobbies: In my free time, outside the world of tech, I love dancing, sightseeing and climbing the mountains.
 
